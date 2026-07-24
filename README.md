@@ -23,7 +23,7 @@ My engagements typically run for 3-15 months across financial services, cybersec
 - [xiigen-general-skills](https://github.com/lubochka/xiigen-general-skills) —
   open-source AI agent skills for safer Claude, Codex and Cursor coding workflows.
 - [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397) —
-  design-to-code plugin, 186,000+ downloads, AI-assisted generation via Anthropic
+  design-to-code plugin, 182,000+ downloads, AI-assisted generation via Anthropic
   & OpenAI APIs.
 
 **Coming:**
