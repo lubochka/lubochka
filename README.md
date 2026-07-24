@@ -3,7 +3,7 @@
 **Interim Tech Lead & R&D Manager | Crisis Team Specialist | Full Stack Developer since 2007**
 
 [Email](mailto:luba.ocs@gmail.com) | [+972-58-448-1366](tel:+972584481366) | Holon, Israel  
-[LinkedIn](https://www.linkedin.com/in/luba-k-rnd) | [GitHub](https://github.com/lubochka)
+[LinkedIn](https://www.linkedin.com/in/luba-k-rnd) 
 
 ## Professional Summary
 
