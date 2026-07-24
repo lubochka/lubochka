@@ -13,6 +13,24 @@ My engagements typically run for 3-15 months across financial services, cybersec
 
 **Core stack:** .NET (since 2007), Angular (since 2014, from AngularJS to today), and SQL.
 
+## Open Source
+
+**Active:**
+- [xiigen-mvp-engine](https://github.com/lubochka/xiigen-mvp-engine) — self-building
+  AI code-generation engine that generates application flows instead of implementing
+  them. Onboarding, billing, roles, multi-tenancy, marketplace — boots fully offline.
+  AGPL-3.0.
+- [xiigen-general-skills](https://github.com/lubochka/xiigen-general-skills) —
+  open-source AI agent skills for safer Claude, Codex and Cursor coding workflows.
+- [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397) —
+  design-to-code plugin, 186,000+ downloads, AI-assisted generation via Anthropic
+  & OpenAI APIs.
+
+**Coming:**
+- **xiigen-open-llm** — teaching small, domain-focused models to do real work:
+  domain tokenization, learnable routing, DPO skills per domain. Fully documented
+  so anyone can copy the approach.
+
 ## Professional Experience
 
 ### Genie Soft LTD
