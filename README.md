@@ -137,30 +137,16 @@ After the system went live, the company took first place in customer service.
 
 English | Hebrew | Russian
 
-## Open Source & Community Impact
-
-### [XIIGen Ecosystem](https://github.com/lubochka)
-
-*2026 - Present*
-
-Open source that removes the expensive first months of building a product:
-
-- **XIIGen MVP Engine (AGPL3):** Self-building SaaS foundation with onboarding, billing, roles, multi-tenancy, and a marketplace; boots fully offline.
-- **XIIGen General Skills:** AI agent skills for safer Claude, Codex, and Cursor workflows.
-- **XIIGen Open LLM:** Teaching small, domain-focused models to do real work, documented.
-
-### [Figma to HTML and CSS Plugin](https://www.figma.com/community/plugin/1128731099343788397)
-
-**186,000+ downloads**
 
 ### Pro Bono Entrepreneurship Education Program
 
-*2017*
+*2013-2018*
 
-Designed and delivered a free digital marketing and business education program for small business owners, reaching 100+ participants across multiple cohorts.
+Designed and delivered a free digital marketing, business and enterprenours education program for small business owners and newbe startups, reaching hundreds participants across multiple cohorts.
 
 ### Earlier Published Projects
 
 - **WordPress Plugin Template:** Open-source toolkit built with PHP
 - **Genie WordPress Data Manager**
 - **DoMoving:** Android logistics application
+- **Askapedia:** Social questionnaire web application
