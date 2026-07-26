@@ -20,7 +20,7 @@ My engagements typically run for 3-15 months across financial services, cybersec
   AI code-generation engine that generates application flows instead of implementing
   them. Onboarding, billing, roles, multi-tenancy, marketplace — boots fully offline.
   AGPL-3.0.
-- [xiigen-open-llm] (https://github.com/lubochka/xiigen-open-llm) — 
+- [xiigen-open-llm](https://github.com/lubochka/xiigen-open-llm) — 
   teaching small, domain-focused models to do real work:
   domain tokenization, learnable routing, DPO skills per domain. Fully documented
   so anyone can copy the approach.
