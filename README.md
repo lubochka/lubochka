@@ -16,13 +16,15 @@ My engagements typically run for 3-15 months across financial services, cybersec
 ## Open Source
 
 **Active:**
-- [xiigen-mvp-engine](https://github.com/lubochka/xiigen-mvp-engine) — self-building
-  AI code-generation engine that generates application flows instead of implementing
-  them. Onboarding, billing, roles, multi-tenancy, marketplace — boots fully offline.
-  AGPL-3.0. Main technologies: Node.js + React.js
-- An alternative based on microservices based on .Net core and Angular:
-  - [Platform](https://github.com/lubochka/xiigen-mvp-platform) 
-  - [Portable and editable flows across multiple tenant system marketplace](https://github.com/lubochka/xiigen-mvp-flows)
+- [xiigen-mvp-engine](https://github.com/lubochka/xiigen-mvp-engine) — a self-building
+  AI code-generation engine: application flows are generated, not hand-coded. Covers
+  onboarding, billing, roles, multi-tenancy, and marketplace. Boots fully offline.
+  Stack: Node.js + React. License: AGPL-3.0.
+- A microservices-based alternative built on .NET Core and Angular:
+  - [xiigen-mvp-platform](https://github.com/lubochka/xiigen-mvp-platform) — the
+    platform itself
+  - [xiigen-mvp-flows](https://github.com/lubochka/xiigen-mvp-flows) — portable,
+    editable flows for the multi-tenant marketplace
 - [xiigen-open-llm](https://github.com/lubochka/xiigen-open-llm) — 
   teaching small, domain-focused models to do real work:
   domain tokenization, learnable routing, DPO skills per domain. Fully documented
