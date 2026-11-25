@@ -4,6 +4,8 @@
 
 I help founders and product teams turn business requirements into working software: defining a practical first release, designing the architecture, implementing features and integrations, and supporting delivery.
 
+**Creator of [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397/figma-to-html-and-css)**, a published Figma Community plugin.
+
 I have worked in software development since 2007, combining hands-on engineering with technical leadership, mentoring, and delivery responsibility across financial services, cybersecurity, media, government, and product companies.
 
 **Based in Holon, Israel · English, Hebrew, Russian**
@@ -15,6 +17,12 @@ I have worked in software development since 2007, combining hands-on engineering
 ## For founders and product owners
 
 I can help you move from an idea, specification, prototype, or existing application to an agreed set of working features.
+
+### From Figma to a working product
+
+If you found me through **Figma to HTML & CSS**, I can help with the next stage: turning a design, prototype, or generated interface code into a working web application, including frontend behavior, backend services, and API integrations. My main stack is **Angular and C#/.NET**.
+
+**Discuss your project:** [contact me on LinkedIn](https://www.linkedin.com/in/luba-k-rnd) or [email me](mailto:luba.ocs@gmail.com?subject=Figma%20project%20inquiry). Tell me what you want to build, who will use it, what exists today, and where you need help. Mention that you found me through Figma.
 
 | What you need | How I can help |
 |---|---|
