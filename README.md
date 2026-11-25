@@ -1,41 +1,54 @@
 # Luba Karpenko
 
-**Interim Tech Lead & R&D Manager | Crisis Team Specialist | Full Stack Developer since 2007**
+**Senior Full Stack Developer & Hands-on Technical Lead — .NET, C#, Angular**
 
-[Email](mailto:luba.ocs@gmail.com) | [+972-58-448-1366](tel:+972584481366) | Holon, Israel  
-[LinkedIn](https://www.linkedin.com/in/luba-k-rnd) 
+I help founders and product teams turn business requirements into working software: defining a practical first release, designing the architecture, implementing features and integrations, and supporting delivery.
 
-## Professional Summary
+I have worked in software development since 2007, combining hands-on engineering with technical leadership, mentoring, and delivery responsibility across financial services, cybersecurity, media, government, and product companies.
 
-Technical leader with 18+ years of continuous hands-on development, specializing in interim leadership for teams in crisis. I integrate into an existing team, stabilize delivery, rebuild processes and team dynamics, and strengthen the team's own tech lead rather than replace them - until the team flies on its own.
+**Based in Holon, Israel · English, Hebrew, Russian**
 
-My engagements typically run for 3-15 months across financial services, cybersecurity, media broadcasting, government, and product companies.
+[LinkedIn](https://www.linkedin.com/in/luba-k-rnd) | [Email](mailto:luba.ocs@gmail.com) | [+972-58-448-1366](tel:+972584481366)
 
-**Core stack:** .NET (since 2007), Angular (since 2014, from AngularJS to today), and SQL.
+[For founders](#for-founders-and-product-owners) · [For engineering teams](#for-employers-and-engineering-teams) · [Selected public work](#selected-public-work) · [Professional experience](#professional-experience)
 
-## Open Source
+## For founders and product owners
 
-**Active:**
-- [xiigen-mvp-engine](https://github.com/lubochka/xiigen-mvp-engine) — a self-building
-  AI code-generation engine: application flows are generated, not hand-coded. Covers
-  onboarding, billing, roles, multi-tenancy, and marketplace. Boots fully offline.
-  Stack: Node.js + React. License: AGPL-3.0.
-- A microservices-based alternative built on .NET Core and Angular:
-  - [xiigen-mvp-platform](https://github.com/lubochka/xiigen-mvp-platform) — the
-    platform itself
-  - [xiigen-mvp-flows](https://github.com/lubochka/xiigen-mvp-flows) — portable,
-    editable flows for the multi-tenant marketplace
-- [xiigen-open-llm](https://github.com/lubochka/xiigen-open-llm) — 
-  teaching small, domain-focused models to do real work:
-  domain tokenization, learnable routing, DPO skills per domain. Fully documented
-  so anyone can copy the approach.
-- [xiigen-general-skills](https://github.com/lubochka/xiigen-general-skills) —
-  open-source AI agent skills for safer Claude, Codex and Cursor coding workflows.
-- [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397) —
-  design-to-code plugin, 182,000+ downloads, AI-assisted generation via Anthropic
-  & OpenAI APIs.
+I can help you move from an idea, specification, prototype, or existing application to an agreed set of working features.
 
+| What you need | How I can help |
+|---|---|
+| Clarify an idea before building | Define user journeys, first-release scope, integration needs, architecture, and an implementation plan. |
+| Build from a specification or prototype | Implement web applications, business workflows, APIs, and integrations, with agreed acceptance checks and handover documentation. |
+| Improve an existing application | Assess the system, prioritize fixes, and implement the changes needed to move development forward. |
+| Give a growing team technical direction | Provide hands-on architecture, code review, mentoring, delivery coordination, and feature development. |
 
+My approach starts with the users and the business workflow. We agree on the first usable release, identify dependencies, choose an architecture that fits the scope, and review a complete workflow before expanding it. AI integrations and AI-assisted development can be part of the work where they serve the product's needs.
+
+## For employers and engineering teams
+
+My main stack is **C#/.NET, ASP.NET Core, Angular, and SQL**. I bring hands-on development, systems analysis, architecture, code review, performance improvement, and mentoring to senior developer and technical lead roles.
+
+My experience includes building financial systems, implementing complex e-commerce processes, improving municipal applications, and supporting distributed development teams. The [professional experience](#professional-experience) below describes the work and my responsibilities.
+
+### Team stabilization and interim leadership
+
+I also help teams restore delivery when an application becomes difficult to maintain or a team needs additional technical support. My interim engagements typically run for 3–15 months and combine implementation, documentation, practical processes, and individual mentoring while strengthening the team's own technical leadership.
+
+## Selected public work
+
+The .NET/Angular projects are the most direct starting point for my main stack. The other repositories show related work in AI-assisted engineering and research.
+
+- **[XIIGen Flows](https://github.com/lubochka/xiigen-mvp-flows)** — .NET microservices and Angular application flows for a multi-tenant marketplace; the business-workflow side of the .NET implementation.
+- **[XIIGen Platform](https://github.com/lubochka/xiigen-mvp-platform)** — shared .NET infrastructure, tenant context, contracts, and APIs supporting the application flows.
+- **[XIIGen General Skills](https://github.com/lubochka/xiigen-general-skills)** — reusable guidance for AI-assisted engineering, review, and verification workflows with Claude, Codex, and Cursor.
+- **[XIIGen Engine](https://github.com/lubochka/xiigen-mvp-engine)** — a separate NestJS/React implementation exploring AI-assisted application generation and orchestration.
+- **[XIIGen Open LLM](https://github.com/lubochka/xiigen-open-llm)** — a C# study and reference project exploring small, domain-focused language models, tokenization, routing, and learning.
+- **[Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397)** — a published design-to-code plugin.
+
+See the linked repositories for implementation details and current limitations.
+
+**Let's discuss a role or project.** [Contact me on LinkedIn](https://www.linkedin.com/in/luba-k-rnd) or [by email](mailto:luba.ocs@gmail.com). For a project, include its current stage, intended users, and the main problem you want to solve. For a role, include the position and the team's main technical challenges.
 
 ## Professional Experience
 
@@ -127,8 +140,8 @@ After the system went live, the company took first place in customer service.
 
 ## Core Technical Skills
 
-- **Backend:** .NET / ASP.NET / .NET Core (since 2007), NestJS, Node.js, PHP
-- **Frontend:** Angular (since 2014, from AngularJS to today), React, TypeScript, HTML/CSS
+- **Backend:** C#/.NET development since 2007; ASP.NET, ASP.NET Core, NestJS, Node.js, PHP
+- **Frontend:** Angular, TypeScript, React, HTML/CSS; earlier AngularJS work starting in 2014
 - **Databases:** SQL Server, MySQL - design, optimization, complex query generation
 - **Leadership:** Interim technical leadership, crisis team intervention, individual mentorship, distributed team management, AI-assisted development workflows
 
@@ -136,21 +149,17 @@ After the system went live, the company took first place in customer service.
 
 ### Technion - Israel Institute of Technology
 
-**Education of Science and Technology, Computer Science**  
+**Studies in Education of Science and Technology, Computer Science**
+
 *2003 - 2008*
 
-## Languages
-
-English | Hebrew | Russian
-
-
-### Pro Bono Entrepreneurship Education Program
+## Pro Bono Entrepreneurship Education Program
 
 *2013-2018*
 
-Designed and delivered a free digital marketing, business and enterprenours education program for small business owners and newbe startups, reaching hundreds participants across multiple cohorts.
+Designed and delivered a free digital marketing, business, and entrepreneurship education program for small business owners and early-stage startups, reaching hundreds of participants across multiple cohorts.
 
-### Earlier Published Projects
+## Earlier Published Projects
 
 - **WordPress Plugin Template:** Open-source toolkit built with PHP
 - **Genie WordPress Data Manager**
