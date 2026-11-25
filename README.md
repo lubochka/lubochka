@@ -4,7 +4,7 @@
 
 I help founders and product teams turn business requirements into working software: defining a practical first release, designing the architecture, implementing features and integrations, and supporting delivery.
 
-**Creator of [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397/figma-to-html-and-css)**, a published Figma Community plugin.
+**Creator of [Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397/figma-to-html-and-css)**, a published Figma Community plugin included in [Designmodo's Figma-to-HTML roundup](https://designmodo.com/figma-to-html/).
 
 I have worked in software development since 2007, combining hands-on engineering with technical leadership, mentoring, and delivery responsibility across financial services, cybersecurity, media, government, and product companies.
 
