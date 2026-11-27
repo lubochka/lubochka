@@ -50,6 +50,7 @@ The .NET/Angular projects are the most direct starting point for my main stack. 
 - **[XIIGen Flows](https://github.com/lubochka/xiigen-mvp-flows)** — .NET microservices and Angular application flows for a multi-tenant marketplace; the business-workflow side of the .NET implementation.
 - **[XIIGen Platform](https://github.com/lubochka/xiigen-mvp-platform)** — shared .NET infrastructure, tenant context, contracts, and APIs supporting the application flows.
 - **[XIIGen General Skills](https://github.com/lubochka/xiigen-general-skills)** — reusable guidance for AI-assisted engineering, review, and verification workflows with Claude, Codex, and Cursor.
+- **[Israel Workhunt](https://github.com/lubochka/israel-workhunt)** — an AGPL-3.0-only toolkit for evidence-based job and freelance-project searches, with reusable AI skills and private CV-based profile setup.
 - **[XIIGen Engine](https://github.com/lubochka/xiigen-mvp-engine)** — a separate NestJS/React implementation exploring AI-assisted application generation and orchestration.
 - **[XIIGen Open LLM](https://github.com/lubochka/xiigen-open-llm)** — a C# study and reference project exploring small, domain-focused language models, tokenization, routing, and learning.
 - **[Figma to HTML & CSS](https://www.figma.com/community/plugin/1128731099343788397)** — a published design-to-code plugin.
